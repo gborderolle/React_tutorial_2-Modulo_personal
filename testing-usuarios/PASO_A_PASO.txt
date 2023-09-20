@@ -1,0 +1,34 @@
+1. Crear proyecto
+npx create-react-app NOMBRE_PROYECTO --template typescript 
+
+2. Instalar packages
+
+npm install bootstrap
+
+npm install react-router-dom
+npm install --save-dev @types/react-router-dom
+
+npm install sweetalert2
+
+npm install moment
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome
+
+npm install framer-motion
+
+3. Carpetas y subcarpetas
+components
+pages
+utils
+
+4. Corregir errores
+
+5. 
+
+
+TODO:
+
+- Ocultar páginas sin autorización (no solo las rutas)
+- Agregar lógica de roles de usuarios
